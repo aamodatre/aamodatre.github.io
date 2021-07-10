@@ -2,8 +2,8 @@
 showonlyimage = true
 draft = false
 image = "img/portfolio/a4-paper.jpg"
-date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
+date = "2021-07-10T01:58:05"
+title = "BITS Projects"
 weight = 0
 +++
 
