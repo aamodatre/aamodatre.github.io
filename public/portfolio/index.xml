@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Aamod Atre</title>
+    <link>https://aamodatre.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Aamod Atre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate>
+    
+	<atom:link href="https://aamodatre.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Name of the work 2</title>
+      <link>https://aamodatre.github.io/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://aamodatre.github.io/portfolio/work2/</guid>
+      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 3</title>
+      <link>https://aamodatre.github.io/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://aamodatre.github.io/portfolio/work3/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

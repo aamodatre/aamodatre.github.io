@@ -57,6 +57,5 @@ googleAnalytics = ""
   [params.social]
   googleplus    = "full profile url in googleplus"
   email         = "email@example.com"
-  twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
   github        = "full profile url in github"
