@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on Aamod Atre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:57:40 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:56:17 +0530</lastBuildDate>
     
 	<atom:link href="https://aamodatre.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>Cavity QED systems for Qubits</title>
-      <link>https://aamodatre.github.io/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://aamodatre.github.io/portfolio/work4/</guid>
-      <description>&lt;p&gt;Study of principles of quantum optics and recent cavity-based implementation of qubits.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Modelling Heavymetal Photocatalysis</title>
       <link>https://aamodatre.github.io/portfolio/work5/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
@@ -63,15 +54,6 @@
       
       <guid>https://aamodatre.github.io/portfolio/work6/</guid>
       <description>&lt;p&gt;Gauging absorption of Carbon Dioxide on various organic precursors.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Study of Metal Organic Frameworks</title>
-      <link>https://aamodatre.github.io/portfolio/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      
-      <guid>https://aamodatre.github.io/portfolio/work7/</guid>
-      <description>&lt;p&gt;Literary review of the structure, function and applications of metal-organic frameworks, focusing on the merits in CO2 capture&lt;/p&gt;</description>
     </item>
     
   </channel>
