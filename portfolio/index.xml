@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on Aamod Atre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:56:17 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 30 Oct 2021 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="https://aamodatre.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -54,6 +54,15 @@
       
       <guid>https://aamodatre.github.io/portfolio/work6/</guid>
       <description>&lt;p&gt;Gauging absorption of Carbon Dioxide on various organic precursors.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Verlet Curtain</title>
+      <link>https://aamodatre.github.io/portfolio/work7/</link>
+      <pubDate>Sat, 30 Oct 2021 18:25:22 +0530</pubDate>
+      
+      <guid>https://aamodatre.github.io/portfolio/work7/</guid>
+      <description>&lt;p&gt;Cloth simulation with Velocity Verlet&lt;/p&gt;</description>
     </item>
     
   </channel>
