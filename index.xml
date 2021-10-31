@@ -30,12 +30,12 @@
     </item>
     
     <item>
-      <title>Hydrogen production with MOFs</title>
-      <link>https://aamodatre.github.io/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <title>Verlet Curtain</title>
+      <link>https://aamodatre.github.io/portfolio/work4/</link>
+      <pubDate>Sat, 30 Oct 2021 18:25:22 +0530</pubDate>
       
-      <guid>https://aamodatre.github.io/portfolio/work3/</guid>
-      <description>&lt;p&gt;Studying hydrogen production capacity of light-metal based MOFs.&lt;/p&gt;</description>
+      <guid>https://aamodatre.github.io/portfolio/work4/</guid>
+      <description>&lt;p&gt;Cloth simulation with Velocity Verlet&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,6 +45,15 @@
       
       <guid>https://aamodatre.github.io/archive/work4/</guid>
       <description>&lt;p&gt;Study of principles of quantum optics and recent cavity-based implementation of qubits.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hydrogen production with MOFs</title>
+      <link>https://aamodatre.github.io/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://aamodatre.github.io/portfolio/work3/</guid>
+      <description>&lt;p&gt;Studying hydrogen production capacity of light-metal based MOFs.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,15 +81,6 @@
       
       <guid>https://aamodatre.github.io/archive/work7/</guid>
       <description>&lt;p&gt;Literary review of the structure, function and applications of metal-organic frameworks, focusing on the merits in CO2 capture&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Verlet Curtain</title>
-      <link>https://aamodatre.github.io/portfolio/work4/</link>
-      <pubDate>Sat, 30 Oct 2021 18:25:22 +0530</pubDate>
-      
-      <guid>https://aamodatre.github.io/portfolio/work4/</guid>
-      <description>&lt;p&gt;Cloth simulation with Velocity Verlet&lt;/p&gt;</description>
     </item>
     
     <item>

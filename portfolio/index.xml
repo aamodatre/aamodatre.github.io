@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Verlet Curtain</title>
+      <link>https://aamodatre.github.io/portfolio/work4/</link>
+      <pubDate>Sat, 30 Oct 2021 18:25:22 +0530</pubDate>
+      
+      <guid>https://aamodatre.github.io/portfolio/work4/</guid>
+      <description>&lt;p&gt;Cloth simulation with Velocity Verlet&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Hydrogen production with MOFs</title>
       <link>https://aamodatre.github.io/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
@@ -54,15 +63,6 @@
       
       <guid>https://aamodatre.github.io/portfolio/work6/</guid>
       <description>&lt;p&gt;Gauging absorption of Carbon Dioxide on various organic precursors.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Verlet Curtain</title>
-      <link>https://aamodatre.github.io/portfolio/work4/</link>
-      <pubDate>Sat, 30 Oct 2021 18:25:22 +0530</pubDate>
-      
-      <guid>https://aamodatre.github.io/portfolio/work4/</guid>
-      <description>&lt;p&gt;Cloth simulation with Velocity Verlet&lt;/p&gt;</description>
     </item>
     
   </channel>
