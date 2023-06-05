@@ -1,88 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://aamodatre.github.io/portfolio/work1/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/portfolio/work2/</loc>
     <lastmod>2016-11-05T19:56:17+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/portfolio/work4/</loc>
     <lastmod>2021-10-30T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/archive/work4/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/portfolio/work3/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/portfolio/work5/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/portfolio/work6/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/archive/work7/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aamodatre.github.io/</loc>
+    <lastmod>2021-10-30T18:25:22+05:30</lastmod>
+  </url><url>
     <loc>https://aamodatre.github.io/portfolio/</loc>
     <lastmod>2021-10-30T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/contact/</loc>
     <lastmod>2021-10-21T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/about/</loc>
     <lastmod>2021-09-02T01:43:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aamodatre.github.io/</loc>
-    <lastmod>2021-09-02T01:43:54+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/handouts/</loc>
     <lastmod>2021-09-02T01:43:54+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/resume/</loc>
     <lastmod>2021-09-02T01:43:54+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/archive/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aamodatre.github.io/tags/</loc>
   </url>
-  
 </urlset>
