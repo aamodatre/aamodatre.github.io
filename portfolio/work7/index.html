@@ -96,18 +96,53 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>Entanglement Transitions in Random Circuits</h1>
-         <p>Studying entanglement transitions in qudit circuits.</p>
+         <p>Characterizing entanglement phase transitions in qudit circuits.</p>
 <blockquote>
 <p>Duration : April 2024 - April 2025 <br>
 Supervisor : Prof. Dr. Frank Pollmann <br>
 Institute : Technical University of Munich</p>
 </blockquote>
-<p>For my master&rsquo;s thesis, I am studying entanglement transitions in random quantum circuits. Here is an abstract.  For my undergraduate thesis, I had undertaken a study of mapping based methods, a semiclassical approach, to studying nonadiabatic quantum dynamics. The primary goal of the study was determing the efficacy of the generalized spin-based mapping approach capturing one-time correlation functions in large systems. A conjugated polymer chain, modelled as a tight-binding Hamiltonian, studied previously by <a href="https://aip.scitation.org/doi/10.1063/1.5009393" title="Ultra-fast relaxation, decoherence, and localization of photoexcited states in π- conjugated polymers">Mannouch et. al (2018)</a> was selected as a benchmark. Further, taking inspiration from the tight-binding form of the Hamiltonian, an SU(<em>2</em>) based formalism was explored as a suitable mapping. This formalism, which contrasted the SU(<em>N</em>) assumption underlying in the generalized spin mapping, was extended to large systems. However, I didn&rsquo;t have the opportunity to thoroughly test this alternative method.</p>
-<p>Some reference and resources you may find interesting:</p>
+<p>Random quantum circuits grant a unique insight into the universal dynamical
+phenomena of generic chaotic quantum many-body systems (1). Discrete-time evolution,
+under the action of randomly sampled local unitaries, is unburdened by the microscopic
+features of Hamiltonian evolution, such as symmetries and conservations laws. The
+dynamics of such quantum circuits can be characterized by entanglement measures, for
+instance by bipartite entropies or disjoint mutual information (2).</p>
+<p>Bipartite entropies grow linearly under random unitary evolution and generically thermalize upon attaining
+the bipartite maximum. This maximum thermal entropy scales linearly with the system volume,
+thereby categorizing random unitary evolution into the &lsquo;volume-law&rsquo; regime. Further,
+inclusion of local projective measurements yields hybrid <em>monitored</em> circuits. While
+weakly-monitored circuits with sparse measurements display a mere reduction in the maximum
+thermal entropy, a gradual increase in the measurement density leads to strongly-monitored
+circuits, which display a thermal entropy scaling proportional to the system&rsquo;s boundary size.
+This is categorized as the `area-law' regime. At the critical measurement density, the bipartite
+entropy scales logarithmically with the system volume. This thermal entanglement scaling transition,
+from volume-law to area-law regimes, has been extensively studied in spin-1/2 (qubit) systems of
+various spatial geometries (3).</p>
+<p>In this work we characterize the entanglement transitions in 1D random quantum circuits of spins
+(qudits) with arbitrary local Hilbert-space dimension <em>d</em>. This predominantly numerical work employs
+the generalized stabilizer formalism (4), taking advantage of the Clifford group which forms a unitary
+2-design on the space of unitaries (5). Notably, we find the nature of the entanglement transition,
+from volume-law to area-law regimes, to be preserved for d&gt;2. However, the critical measurement density
+increases, ostensibly converging to 1/2 in the limit d → ∞.</p>
+<p>Moving forward, we are pursuing two directions. First, we are developing a minimal model
+capturing the entanglement transition in a monitored qudit circuit in the limit d → ∞.
+Second, with d&gt;2, we aim to understand the application of distinct projective measurements and topologically
+characterize their corresponding area-law phases, following Ref. (6).</p>
+<p>References:</p>
 <ol>
-<li>Generalized spin mapping - <a href="https://doi.org/10.1063/1.5143412" title="Generalized spin mapping for quantum-classical dynamics">Runeson and Richardson (2020)</a>.</li>
-<li>Exciton Relaxation Dynamics - <a href="https://aip.scitation.org/doi/10.1063/1.5009393" title="Ultra-fast relaxation, decoherence, and localization of photoexcited states in π- conjugated polymers">Mannouch et. al. (2018)</a>, <a href="https://arxiv.org/abs/2102.06615" title="Exciton Dynamics in Conjugated Polymers">Barford (2021)</a></li>
-<li>On Stratonovich-Wyle Mapping - <a href="https://arxiv.org/abs/quant-ph/9809052" title="Phase-space formulation of quantum mechanics and quantum-state reconstruction for physical systems with Lie-group symmetries">Brif and Mann (1998)</a>, <a href="/img/documents/SW1955.pdf" title="On Representations in Distribution Space">Stratonovich (1955)</a></li>
+<li>M. P. Fisher, V. Khemani, A. Nahum, and S. Vijay, <a href="https://arxiv.org/abs/2207.14280">Random quantum circuits</a>, Annual Review of Condensed Matter Physics
+14, 335 (2023).</li>
+<li>Y. Li, X. Chen, and M. P. Fisher, <a href="https://arxiv.org/abs/1901.08092">Measurement-driven entanglement transition in hybrid quantum circuits</a>, Physical Review
+B 100, 134306 (2019).</li>
+<li>A. Nahum, J. Ruhman, S. Vijay, and J. Haah, <a href="https://arxiv.org/abs/1608.06950">Quantum entanglement growth under random unitary dynamics</a>, Physical
+Review X 7, 031016 (2017).</li>
+<li>D. Gottesman, <a href="https://arxiv.org/abs/quant-ph/9802007">Fault-tolerant quantum computation with higher-dimensional systems</a>, in NASA International Conference
+on Quantum Computing and Quantum Communications (Springer, 1998) pp. 302–313.</li>
+<li>M. Heinrich, <a href="https://kups.ub.uni-koeln.de/50465/">On stabiliser techniques and their application to simulation and certification of quantum devices</a>, Ph.D. thesis,
+Universit¨at zu K¨oln (2021).</li>
+<li>A. Lavasani, Y. Alavirad, and M. Barkeshli, <a href="https://arxiv.org/abs/2011.06595">Topological order and criticality in (2+ 1) d monitored random quantum
+circuits</a>, Physical review letters 127, 235701 (2021).</li>
 </ol>
 <p>Do get in touch for more details!</p>
 <!-- raw HTML omitted -->
