@@ -4,80 +4,65 @@
     <title>Portfolios on Aamod Atre</title>
     <link>https://aamodatre.github.io/portfolio/</link>
     <description>Recent content in Portfolios on Aamod Atre</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Oct 2021 18:25:22 +0530</lastBuildDate><atom:link href="https://aamodatre.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Oct 2021 18:25:22 +0530</lastBuildDate>
+    <atom:link href="https://aamodatre.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entanglement Transitions in Random Circuits</title>
       <link>https://aamodatre.github.io/portfolio/work7/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
       <guid>https://aamodatre.github.io/portfolio/work7/</guid>
       <description>&lt;p&gt;Characterizing entanglement phase transitions in qudit circuits.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Polariton dissipation in cavity-confined atoms</title>
       <link>https://aamodatre.github.io/portfolio/work8/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
       <guid>https://aamodatre.github.io/portfolio/work8/</guid>
       <description>&lt;p&gt;Semiclassical mapping to analyse the dynamics of the Jaynes-Cummings Hamiltonian.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Spectroscopy with PLDM</title>
       <link>https://aamodatre.github.io/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
       <guid>https://aamodatre.github.io/portfolio/work1/</guid>
       <description>&lt;p&gt;Computation of linear absorption spectra with standard and spin-based partially linearized densty matrix (PLDM) techniques.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Exciton dynamics with Spin-Mapping</title>
       <link>https://aamodatre.github.io/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
       <guid>https://aamodatre.github.io/portfolio/work2/</guid>
       <description>&lt;p&gt;A semiclassical approach to modelling relaxation dynamics in photoexcited polymer chains.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Verlet Curtain</title>
       <link>https://aamodatre.github.io/portfolio/work4/</link>
       <pubDate>Sat, 30 Oct 2021 18:25:22 +0530</pubDate>
-      
       <guid>https://aamodatre.github.io/portfolio/work4/</guid>
       <description>&lt;p&gt;Cloth simulation with Velocity Verlet&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hydrogen production with MOFs</title>
       <link>https://aamodatre.github.io/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
       <guid>https://aamodatre.github.io/portfolio/work3/</guid>
       <description>&lt;p&gt;Studying hydrogen production capacity of light-metal based MOFs.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Modelling Heavymetal Photocatalysis</title>
       <link>https://aamodatre.github.io/portfolio/work5/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
       <guid>https://aamodatre.github.io/portfolio/work5/</guid>
       <description>&lt;p&gt;Modelling rate of heavymetal purification from water by photocatalysis.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CO2 Capture with COFs</title>
       <link>https://aamodatre.github.io/portfolio/work6/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
       <guid>https://aamodatre.github.io/portfolio/work6/</guid>
       <description>&lt;p&gt;Gauging absorption of Carbon Dioxide on various organic precursors.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
